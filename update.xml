@@ -2,6 +2,6 @@
 <item>
     <version>1.26.7.2004</version>
     <url>https://github.com/AGMCJSW/JYStudio/releases/download/v1.26.7.2004/CSJYStudio_Setup_v1.26.7.2004.exe</url>
-    <changelog>https://cdn.jsdelivr.net/gh/AGMCJSW/JYStudio@v1.26.7.2004/changelog.html</changelog>
+    <changelog>https://agmcjsw.github.io/JYStudio/changelog.html</changelog>
     <mandatory>false</mandatory>
 </item>
