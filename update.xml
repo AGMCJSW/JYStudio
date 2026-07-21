@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>1.26.7.2005</version>
-    <url>https://github.com/AGMCJSW/JYStudio/releases/download/v1/CSJYStudio_Setup_v1.26.7.2005.exe</url>
+    <version>1.26.7.2104</version>
+    <url>https://gitee.com/agmcjsw/csjystudio/releases/download/CSJYStudio/CSJYStudio_Setup_v1.26.7.2104.exe</url>
     <changelog>https://agmcjsw.github.io/JYStudio/changelog.html</changelog>
     <mandatory>false</mandatory>
 </item>
